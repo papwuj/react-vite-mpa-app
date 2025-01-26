@@ -1,5 +1,7 @@
 # react-vite-mpa-app
 
+可投产使用的版本
+
 > Out-of-the-box multi-page-application (MPA) support for Vite - supports Vue2/3, React and others
 
 <p align="center">
